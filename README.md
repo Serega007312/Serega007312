@@ -1,4 +1,4 @@
-![КАЙФУЛИ](https://github.com/Serega007312/Serega007312/blob/main/f88a62b484764d79220e75cdd9f949c4.gif)
+![КАЙФУЛИ](https://github.com/Serega007312/Serega007312/blob/main/1.gif)
 # Всем привет меня зовут Сергей! :v:
 
 ## Кто я такой?  :point_right:  :point_left:   
