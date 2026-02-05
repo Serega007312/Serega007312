@@ -1,3 +1,4 @@
+![КАЙФУЛИ](https://github.com/Serega007312/Serega007312/blob/main/f88a62b484764d79220e75cdd9f949c4.gif)
 # Всем привет меня зовут Сергей! :v:
 
 ## Кто я такой?  :point_right:  :point_left:   
@@ -7,8 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-# СМОТРИ И КАЙФУЙ
-![КАЙФУЛИ](https://github.com/Serega007312/Serega007312/blob/main/f88a62b484764d79220e75cdd9f949c4.gif)
+
 
 
 
