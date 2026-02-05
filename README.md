@@ -1,4 +1,18 @@
-## Hi there 👋
+# Всем привет меня зовут Сергей! :v:
+
+## Кто я такой?  :point_right:  :point_left:   
+Программист-самоучка 
+
+## В чём сила брат? :metal:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+# СМОТРИ И КАЙФУЙ
+![КАЙФУЛИ](https://github.com/Serega007312/Serega007312/blob/main/f88a62b484764d79220e75cdd9f949c4.gif)
+
+
+
+
 
 <!--
 **Serega007312/Serega007312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
